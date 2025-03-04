@@ -37,7 +37,7 @@ With including `ansible-dev-tools` in `requirements.txt,` this project ensures t
 
 ## Installation
 
-1. **Install the required dnf packages:** YOU MAY NEED TO RESEARCH ADDITIONAL WORK INSTRUCTIONS ON INSTALLING PYTHON 3.10=> (equal to or greater than) it's a requirement for the ansible-dev-tools to work..
+1. **Install the required dnf packages:** PLEASE RESEARCH ADDITIONAL WORK INSTRUCTIONS ON INSTALLING PYTHON 3.10=> (equal to or greater than) it's a requirement for the ansible-dev-tools to work..
 
     ```bash
     sudo dnf install git python3 python3-devel -y
